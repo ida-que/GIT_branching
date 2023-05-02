@@ -1,0 +1,13 @@
+Bug report attributes:
+1. Number (ID)
+2. Severity
+3. Priority
+4. Title
+5. Environment
+6. Precondition (optional)
+7. STR (steps to reproduce) - 1,2,3,4....n
+8. AR (actual result)
+9. ER (expected result)
+10. Attachment (link to video)
+11. Post condition (optional)
+12. Reproducibility (optional) - e.g. 4/10
