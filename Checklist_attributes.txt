@@ -1,0 +1,12 @@
+Checklist attributes:
+1. Step number
+2. Step title
+3. Environment
+4. Precondition
+5. Inputs (optional)
+6. STR (steps to reproduce)
+7. ER (expected result)
+8. AR (actual result, obligatory if status=fail)
+9. Status (pass/fail)
+10. Attachment
+11. Bug attachment (link to video)
